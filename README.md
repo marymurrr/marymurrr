@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Mary 👋
 
-<!--
-**marymurrr/marymurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Computer Science & Engineering student | **Frontend & WordPress Developer** 💻
 
-Here are some ideas to get you started:
+I deliver **real, working projects** — from university assignments to personal and professional tasks. Focused on **clean, maintainable code**, improving **user experience**, and building **practical solutions**. ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills & Tools:**
+- **Frontend:** HTML, CSS, JavaScript, React ✨
+- **Backend & Databases:** Node.js basics, MySQL, MongoDB, REST APIs 🗄️
+- **WordPress:** Theme & plugin customization, gamification, site development 🖥️
+- **Other:** Git & GitHub, VS Code, Networking fundamentals 🌐
+
+**📬 Contact:** LinkedIn in my bio 
